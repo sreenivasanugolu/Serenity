@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When search by keyword in duckduckgo","Should see relevant search results22","ERROR","2019-11-19T12:48:05.588+05:30[Asia/Calcutta]","0.0","28.38"
+"When search by keyword in duckduckgo","Should see relevant search results","ERROR","2019-11-19T12:48:35.054+05:30[Asia/Calcutta]","0.0","17.44"
+"When search by keyword in duckduckgo","Should see content snippet22","ERROR","2019-11-19T12:48:52.75+05:30[Asia/Calcutta]","0.0","17.26"
+"When search by keyword in duckduckgo","Should see content snippet","ERROR","2019-11-19T12:49:10.135+05:30[Asia/Calcutta]","0.0","17.49"

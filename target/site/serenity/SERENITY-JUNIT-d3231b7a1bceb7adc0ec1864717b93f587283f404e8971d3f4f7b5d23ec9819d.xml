@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="api.ApiTest" skipped="0" tests="1" time="6.4" timestamp="2019-11-22 04:12:12"><testcase classname="api.ApiTest" name="Postdata"><failure message="1 expectation failed.&#10;JSON path firstName doesn't match.&#10;Expected: sree&#10;  Actual: abhinav&#10;" type="java.lang.AssertionError">1 expectation failed.
+JSON path firstName doesn't match.
+Expected: sree
+  Actual: abhinav
+</failure><system-err>1 expectation failed.
+JSON path firstName doesn't match.
+Expected: sree
+  Actual: abhinav
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:656)&#13;
+io.restassured.internal.ResponseSpecificationImpl.content(ResponseSpecificationImpl.groovy:277)&#13;
+io.restassured.internal.ResponseSpecificationImpl.body(ResponseSpecificationImpl.groovy:260)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.body(ValidatableResponseOptionsImpl.java:274)&#13;
+api.ApiTest.lambda$postdata$2(ApiTest.java:40)&#13;
+api.ApiTest.postdata(ApiTest.java:38)&#13;
+</system-err></testcase></testsuite>

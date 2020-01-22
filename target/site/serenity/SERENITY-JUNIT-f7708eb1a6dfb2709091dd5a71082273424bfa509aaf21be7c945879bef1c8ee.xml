@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Test Rest API using JsonPlaceHolder" skipped="0" tests="1" time="0.56" timestamp="2019-11-22 10:31:26"><testcase name="Rest POST example"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+api.JsonPlaceHolderSteps.post_data(JsonPlaceHolderSteps.java:39)&#13;
+✽.post data(src/test/resources/features/api/testapi.feature:4)&#13;
+</system-err></testcase></testsuite>

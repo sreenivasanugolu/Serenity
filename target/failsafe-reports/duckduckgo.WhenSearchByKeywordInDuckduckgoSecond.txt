@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: duckduckgo.WhenSearchByKeywordInDuckduckgoSecond
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 71.03 s <<< FAILURE! - in duckduckgo.WhenSearchByKeywordInDuckduckgoSecond
+should_see_relevant_search_results(duckduckgo.WhenSearchByKeywordInDuckduckgoSecond)  Time elapsed: 10.869 s  <<< ERROR!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=78.0.3904.97)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WKWIN5703276', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\sreanugo\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64069}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9832d651439eba5b6b00b16779e87ff8
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WKWIN5703276', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: unknown
+	at duckduckgo.WhenSearchByKeywordInDuckduckgoSecond.should_see_relevant_search_results(WhenSearchByKeywordInDuckduckgoSecond.java:22)
+
